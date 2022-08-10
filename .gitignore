@@ -1,0 +1,15 @@
+# Dependency directories
+node_modules/
+
+# Optional npm cache directory
+.npm
+
+# Logs
+.logs/
+
+# code Zip file
+*.zip
+
+# Other
+.DS_Store
+LOCAL_NOTES/
