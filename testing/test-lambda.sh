@@ -28,7 +28,7 @@ curl -X POST "$LAMBDA_URL" \
     "data": {
       "incident": {
         "html_url": "https://dev-dt-demos.pagerduty.com/incidents/Q20WG3R393D6M9",
-        "id": "Q20WG3R393D6M9",
+        "id": "Q13F9AFE29EY9B",
         "self": "https://api.pagerduty.com/incidents/Q20WG3R393D6M9",
         "summary": "Simulated Dynatrace problem 2022-08-09--21.21.44",
         "type": "incident_reference"

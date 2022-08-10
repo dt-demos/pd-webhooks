@@ -8,6 +8,7 @@ echo "============================================================="
 mkdir -p ".logs"
 CURL_OUTPUT_FILE=".logs/pd-ouput.txt"
 PROBLEM=$(date "+%Y-%m-%d--%H.%M.%S")
+PROBLEM=8857294971831621162_1658883180000V2
 PROBLEM_TITLE="Simulated Dynatrace problem $PROBLEM"
 
 # this is the format that comes from Dynatrace
